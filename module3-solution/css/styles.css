@@ -64,8 +64,12 @@ header .container{
    font-weight: bold;
 }
 
+.row{
+	margin:5px;
+}
+
 section .container{
-  padding: 0px;
+  padding: 5px;
   margin-top:  25px;
   margin-bottom:  50px;
   background-color: #FA8072;
